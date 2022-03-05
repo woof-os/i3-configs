@@ -1,10 +1,14 @@
-# i3-configs
-
-- `alacritty.yml` should go inside `$HOME/.config/alacritty/`
+# i3 Config Files
 
 - `config` should go inside `$HOME/.config/i3/`
 
-- ` i3status.conf` should go inside `/etc/`
+- `i3status.conf` should go inside `/etc/`
+
+# Requirements
+
+- Font awesome
+- i3 
+- i3status
 
 ---
 
