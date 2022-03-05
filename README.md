@@ -6,7 +6,7 @@ alacritty.yml should go inside /home/$USER/.config/alacritty/
 
 config should go inside /home/$USER/.config/i3/ 
 
-OR (if using other arch based distros, you must check this) /home/$USER/i3/
+Config file -> if using other arch based distros, you must check if this directory exists -> /home/$USER/i3/
 
 
 
